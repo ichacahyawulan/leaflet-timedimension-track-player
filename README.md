@@ -2,9 +2,9 @@
 
 This project is a program to play a flight track on a map using the following libraries:
 
-* Leaflet Map [L.map](https://www.npmjs.com/package/leaflet)
-* Leaflet Time Dimension [L.timeDimension](https://www.npmjs.com/package/leaflet-timedimension)
-* Leaflet Rotated Marker [L.marker([..], { rotationAngle: .. })](https://www.npmjs.com/package/leaflet-rotatedmarker)
+* Leaflet Map → [L.map](https://www.npmjs.com/package/leaflet)
+* Leaflet Time Dimension → [L.timeDimension](https://www.npmjs.com/package/leaflet-timedimension)
+* Leaflet Rotated Marker → [L.marker](https://www.npmjs.com/package/leaflet-rotatedmarker)
 
 # Getting Started with Create React App
 
